@@ -4,3 +4,4 @@ Branch-01 02
 Branch-01 03
 Branch-02 04
 Branch-02 05
+Master 06
